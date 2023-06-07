@@ -1,8 +1,9 @@
-# Exploratory-data-Analysis-in-R
+# GDP-PERCAPITA INCOME VS LIFE EXPECTANCY ANALYSIS
 
 # ABOUT THE PROJECT
 
-It contains data from gapminder package on life expectancy, GDP-percapita, Continent and population by Country by five year-interval group from 1952 t0 2007.
+The data is from "gapminder" package.It contains data on life expectancy and GDP-percapita 
+by Continent and Country by five year-interval from 1952 t0 2007.
 
 # AIM OF THE PROJECT
 
@@ -18,7 +19,7 @@ The aim is to explore, analyze and draw meaningful insights from the data throug
 
 -- Correlation and Regression
 
--- Hypothesis testing against a claim
+-- Hypothesis testing 
 
 The Packages used in the analysis include:
               gt,
